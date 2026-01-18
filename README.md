@@ -18,19 +18,16 @@
 
 ## 注册主界面
 
-<img width="575" height="813" alt="zuce" src="https://github.com/user-attachments/assets/d9da062e-2906-4381-b33f-82ce792c74f9" />
+<img width="1646" height="910" alt="1" src="https://github.com/user-attachments/assets/60cca5b3-fd56-4ab0-bb13-102323c548af" />
 
-<img width="2825" height="1511" alt="1" src="https://github.com/user-attachments/assets/292236af-77d4-47c0-89ab-3c230eedccd3" />
+<img width="1628" height="900" alt="2" src="https://github.com/user-attachments/assets/4b874175-4344-4fda-b152-94c0fee138fe" />
+
 
 [注册PFC入口](https://payforcard.com/auth?invite=INV7309B065)
 
 ## 主要卡号和用途选择
 
-<img width="2802" height="1519" alt="2" src="https://github.com/user-attachments/assets/a55de40f-7f3c-4967-b5d1-a46312ba9dd0" />
-
-## 平台什么时候建立的
-
-不早于2025年9月
+<img width="1646" height="903" alt="3" src="https://github.com/user-attachments/assets/c233386f-facc-4a8c-8cea-323332df1f98" />
 
 ## 开卡费
 
@@ -60,13 +57,15 @@
 ## 充值方法
 
     1. 登录PayforCard账号后，进入首页面，点击 “充值” 按钮。 
-    2. 输入充值金额（需满足最低 100 U 的要求，开卡需100U保证金）。 
+    2. 输入充值金额（需满足最低 100 U 的要求，开卡需100U保证金）。注： 
     3. 选择支付方式（目前仅支持 USDT（TRC20）转账）。 
     4. 按照系统提示的转账地址完成转账操作，需在 30 分钟内完成充值。 
     5. 系统自动确认到账，确认时间约 2 分钟，超过 30 分钟未入账可联系在线客服查询。
 
-<img width="459" height="697" alt="image" src="https://github.com/user-attachments/assets/82dd0564-29ec-4d2b-b20c-cb0fcc046594" />
-	
+<img width="1206" height="731" alt="4" src="https://github.com/user-attachments/assets/9ed335fe-6e36-4b98-b1ab-740f73888270" />
+
+注：开卡订单提交后，保证金系统自动退还，只扣除开卡费
+
 ## 是否有实体卡
 
 提供虚拟卡与实体卡（VISA 预付卡，支持线下刷卡、ATM 取现）。
